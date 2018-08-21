@@ -403,7 +403,7 @@
     $(document).ready(function() {
       var dcconListUrl = getUrlParameter('dccon_list');
       if (dcconListUrl == undefined) {
-        dcconListUrl = 'https://tf2vals.github.io/tf2con/tf2con.json';
+        dcconListUrl = 'https://krynen.github.io/jsassist-custom-css/js/dccon_list.json';
       }
       $.getJSON(dcconListUrl).done(function(data) {
           dcconList = data.dccons;
