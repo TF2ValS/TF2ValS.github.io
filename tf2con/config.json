@@ -18,7 +18,7 @@
 			"platform": "all",
 			"animation": "fade",
 			"chatFade": 20,
-			"font": "Noto Sans KR",
+			"font": "Jeju Gothic",
 			"fontUsernameSize": 20,
 			"fontUsernameColor": "44, 36, 33",
 			"fontChatSize": 16,
