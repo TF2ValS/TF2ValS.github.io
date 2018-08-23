@@ -18,7 +18,7 @@
 			"platform": "all",
 			"animation": "fade",
 			"chatFade": 20,
-			"font": "Noto Sans KR",
+			"font": "Jeju Gothic",
 			"fontUsernameSize": 20,
 			"fontUsernameColor": "44, 36, 33",
 			"fontChatSize": 16,
@@ -26,7 +26,7 @@
 			"backgroundColor": "252, 247, 218",
 			"backgroundAlpha": 0,
 			"chatBackgroundColor": "208, 193, 162",
-			"chatBackgroundAlpha": 80
+			"chatBackgroundAlpha": 25
 		},
 		"themes": {
 			"jsassist": {
@@ -41,12 +41,12 @@
 	},
 	"plugins": {
 		"command": {
-			"use" : false
-			},
+			"use": false
+		},
 		"dccon": {
 			"use": true,
 			"config": {
-				"address": "https://tf2vals.github.io/tf2con/new_tf2con.json",
+				"address": "https://lastorder-dc.github.io/ChatAssistX-Client/dccon.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
 				"twitch_sub": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/sub.json"
 			}
@@ -58,8 +58,8 @@
 			"use": true,
 			"config": {
 				"replace_list": {
-					"밸브님": "밸스님",
-					"월요일좋아": "월요일싫어"
+					"바꿀말1": "바꿔질말1",
+					"바꿀말2": "바꿔질말2"
 				}
 			}
 		},
@@ -67,7 +67,7 @@
 			"use": true,
 			"config": {
 				"block_list": {
-					"하선": "keyword",
+					"나쁜말1": "keyword",
 					"나쁜닉네임1": "nickname",
 					"나쁜말2": "keyword",
 					"나쁜닉네임2": "nickname"
@@ -81,13 +81,13 @@
 			"config": {
 				"oauth": "",
 				"do_not_use_tapic": false,
-				"channelname": "kimsunmool"
+				"channelname": "lastorder_dc"
 			}
 		},
 		"mixer": {
 			"use": false,
 			"config": {
-				"channelid": 
+				"channelid": 164900
 			}
 		}
 	}
