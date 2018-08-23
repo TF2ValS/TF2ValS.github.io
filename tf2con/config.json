@@ -30,7 +30,7 @@
 		},
 		"themes": {
 			"jsassist": {
-				"css": [],
+				"css": ["https://cdn.rawgit.com/Lastorder-DC/70a199ad49d5bd2e23ec005e56b1cf70/raw/0c7818bd0530b3f1ed172594cfb5c4db98b99bac/rct2.css"],
 				"js": [],
 				"image": {
 					"streamer": "",
