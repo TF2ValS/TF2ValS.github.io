@@ -18,7 +18,7 @@
 			"platform": "all",
 			"animation": "fade",
 			"chatFade": 20,
-			"font": "Jeju Gothic",
+			"font": "Noto Sans KR",
 			"fontUsernameSize": 20,
 			"fontUsernameColor": "44, 36, 33",
 			"fontChatSize": 16,
@@ -40,6 +40,9 @@
 		}
 	},
 	"plugins": {
+		"command": {
+			"use" : false
+			},
 		"dccon": {
 			"use": true,
 			"config": {
