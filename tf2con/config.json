@@ -80,7 +80,7 @@
 			"use": true,
 			"config": {
 				"oauth": "",
-				"do_not_use_tapic": true,
+				"do_not_use_tapic": false,
 				"channelname": "kimsunmool"
 			}
 		},
