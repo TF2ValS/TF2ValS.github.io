@@ -30,7 +30,7 @@
 		},
 		"themes": {
 			"jsassist": {
-				"css": [""],
+				"css": [],
 				"js": [],
 				"image": {
 					"streamer": "",
