@@ -19,13 +19,13 @@
 			"animation": "fade",
 			"chatFade": 20,
 			"font": "Jeju Gothic",
-			"fontUsernameSize": 20,
-			"fontUsernameColor": "44, 36, 33",
+			"fontUsernameSize": 14,
+			"fontUsernameColor": "255, 255, 255",
 			"fontChatSize": 16,
 			"fontChatColor": "0, 0, 0",
-			"backgroundColor": "252, 247, 218",
+			"backgroundColor": "255, 255, 255",
 			"backgroundAlpha": 0,
-			"chatBackgroundColor": "208, 193, 162",
+			"chatBackgroundColor": "255, 255, 255",
 			"chatBackgroundAlpha": 25
 		},
 		"themes": {
@@ -80,7 +80,7 @@
 			"use": true,
 			"config": {
 				"oauth": "",
-				"do_not_use_tapic": true,
+				"do_not_use_tapic": false,
 				"channelname": "kimsunmool"
 			}
 		},
