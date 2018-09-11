@@ -87,7 +87,7 @@
 		"mixer": {
 			"use": false,
 			"config": {
-				"channelid": 
+				"channelid": 000001
 			}
 		}
 	}
