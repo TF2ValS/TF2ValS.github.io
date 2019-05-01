@@ -46,7 +46,7 @@
 		"dccon": {
 			"use": true,
 			"config": {
-				"address": "https://tf2vals.github.io/tf2con/tf2con_assistx.json",
+				"address": "https://raw.githubusercontent.com/TF2ValS/TF2ValS.github.io/master/tf2con/chatxtf2con.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
 				"twitch_sub": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/sub.json"
 			}
